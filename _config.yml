@@ -1,0 +1,28 @@
+name: michiganrabbit
+favicon: null
+layout_spectrum: 0.8356283043976873
+typography_spectrum: 0.2556490618735552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5228071897290647
+  lightness: 0.09358453215099871
+  saturation: 0.4300662574823946
+  rhythmicContrast: 0.8941629291512072
+purpose: []
